@@ -1,0 +1,8 @@
+{
+  "appId": "com.universalstudio.app",
+  "appName": "Universal Studio",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
